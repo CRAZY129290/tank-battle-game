@@ -33,8 +33,6 @@
 
 ## 在线试玩
 
-启用 GitHub Pages 后，访问：
+GitHub Pages 已启用，直接访问：
 
-```
-https://<你的用户名>.github.io/tank-battle/
-```
+https://crazy129290.github.io/tank-battle-game/
